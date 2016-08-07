@@ -6,7 +6,7 @@
 # http://www.irobotweb.com/~/media/MainSite/PDFs/About/STEM/Create/Python_Tethered_Driving.pdf
 # https://petrimaki.com/2013/04/28/reading-arduino-serial-ports-in-windows-7/
 
-import serial
+import serial #test comment
 import time
 
 # Add code to fetch and set COM port dynamically
